@@ -1,0 +1,16 @@
+{
+  "name": "Hesabrun | حساب‌رون",
+  "short_name": "Hesabrun",
+  "description": "ثبت خرج‌ها و اقساط ماهانه و پیشنهاد صرفه‌جویی",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#073724",
+  "theme_color": "#073724",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
